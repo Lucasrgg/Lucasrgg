@@ -1,4 +1,4 @@
-### Olá, Eu sou o Lucas Rodrigues 👋
+### Olá, Eu sou o Lucas Rodrigues! 👋
 
 - 🔭 Hoje sou estudante Full Stack com foco em Back-End
 - 🌱 Estudando Node.JS
