@@ -3,7 +3,6 @@
 - 🔭 Hoje sou estudante Full Stack com foco em Back-End
 - 🌱 Estudando Node.JS
 - 📫 Contate o meu e-mail: lukrodrigues307@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div align="center">
   <a href="https://www.instagram.com/lucasrogarcia/" target="_blank">
