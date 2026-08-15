@@ -1,36 +1,52 @@
-### Olá, Eu sou o Lucas Rodrigues! 👋
+<div align="center">
 
-- 🔭 Hoje sou estudante Full Stack com foco em Back-End
-- 🌱 Estudando Node.JS
-- 📫 Contate o meu e-mail: lukrodrigues307@gmail.com
+# Olá, eu sou o Lucas Rodrigues 👋
 
- <div align="center">
-  <a href="https://www.instagram.com/lucasrogarcia/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-rodrigues-garcia-786517227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:lukrodrigues307@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+**Desenvolvedor Full Stack em formação, com foco em Back-End.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lucasrgg-181717?style=for-the-badge&logo=github)](https://github.com/Lucasrgg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 </div>
 
-###
+## Sobre mim
+
+Atualmente estudo desenvolvimento web e construo projetos para transformar ideias em aplicações simples, úteis e bem organizadas. Gosto especialmente de criar APIs, resolver problemas e aprender boas práticas de código.
+
+- 🌱 Estudando **Node.js** e desenvolvimento Full Stack
+- 🎯 Evoluindo em **Back-End**, APIs e bancos de dados
+- 📍 Rio de Janeiro, Brasil
+
+## Tecnologias
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## Projetos em destaque
+
+Aqui estão alguns projetos que representam minha jornada de aprendizado:
+
+- **Receitas Lucas** — aplicação web de receitas.
+- **Editora de Livros** — projeto em TypeScript.
+- **Livros Angular** — aplicação desenvolvida com Angular.
+
+> Veja os repositórios fixados logo abaixo deste perfil para conhecer os projetos.
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasrgg/Lucasrgg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasrgg/Lucasrgg/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de cobra percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/Lucasrgg/Lucasrgg/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasrgg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasrgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <i>Obrigado pela visita! Vamos construir algo incrível.</i>
 </div>
