@@ -50,5 +50,5 @@ Check out the pinned repositories right below this profile to see the projects.
 ---
 
 <div align="center">
-  <i>Obrigado pela visita! Vamos construir algo incrível.</i>
+  <i>Thanks for visiting! Let's build something amazing.</i>
 </div>
